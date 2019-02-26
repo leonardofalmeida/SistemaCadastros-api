@@ -1,0 +1,14 @@
+C:\Users\lferr\source\repos\GeoApi\GeoApi\bin\Debug\netcoreapp2.1\GeoApi.deps.json
+C:\Users\lferr\source\repos\GeoApi\GeoApi\bin\Debug\netcoreapp2.1\GeoApi.runtimeconfig.json
+C:\Users\lferr\source\repos\GeoApi\GeoApi\bin\Debug\netcoreapp2.1\GeoApi.runtimeconfig.dev.json
+C:\Users\lferr\source\repos\GeoApi\GeoApi\bin\Debug\netcoreapp2.1\GeoApi.dll
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.csprojAssemblyReference.cache
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.csproj.CoreCompileInputs.cache
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.RazorAssemblyInfo.cache
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.RazorAssemblyInfo.cs
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.AssemblyInfoInputs.cache
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.AssemblyInfo.cs
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.RazorTargetAssemblyInfo.cache
+C:\Users\lferr\source\repos\GeoApi\GeoApi\bin\Debug\netcoreapp2.1\GeoApi.pdb
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.dll
+C:\Users\lferr\source\repos\GeoApi\GeoApi\obj\Debug\netcoreapp2.1\GeoApi.pdb
